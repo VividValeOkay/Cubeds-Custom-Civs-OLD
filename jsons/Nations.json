@@ -199,7 +199,7 @@
     "outerColor": [255, 255, 255],
     "innerColor": [161, 161, 161],
 	"uniqueName": "Valley of Oros",
-    "uniques": ["[+1 Production] <in [resource] tiles> <in [in all cities] cities>"],
+    "uniques": ["[+1 Production, +1 Food] from [resource] tiles [in all cities]"],
 	"cities": ["Wenja Village","Nakuti Bonfire","Hayka Cave","Forgotten Glade","Stone Watch Bonfire","Swaras Outpost","Payska River Outpost",
 		       "Cave of Sun Walkers","Ring Wall Outpost","Kashatigri's Home","Mamaf Walk Pond","Hot Springs","Naymin of Spirits","Great Prashrawa"],
 "spyNames": ["Sayla","Tensay","Karoosh","Urki","Jayma","Dalso","Wogah"]
