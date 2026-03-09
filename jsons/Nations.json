@@ -197,7 +197,7 @@
     "tradeRequest": "Wenja need resourses, We need trade with you.",
 
     "outerColor": [133, 113, 97],
-    "innerColor": [196, 169, 147],
+    "innerColor": [214, 191, 171],
 	"uniqueName": "Valley of Oros",
     "uniques": ["[+1 Production, +1 Food] from [resource] tiles [in all cities]"],
 	"cities": ["Wenja Village","Nakuti Bonfire","Hayka Cave","Forgotten Glade","Stone Watch Bonfire","Swaras Outpost","Payska River Outpost",
