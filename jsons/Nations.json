@@ -179,4 +179,28 @@
 "spyNames": ["Yi Sang","Faust","Don Quixote","Ryōshū","Meursault","Hong Lu","Heathcliff","Ishmael","Rodion","Dante","Sinclair",
              "Outis","Gregor"]
 },
+{
+	"name": "Wenja",
+	"leaderName": "Takkar",
+    "preferredVictoryType": "Domination",
+	"personality": "Takkar",
+
+	"declaringWar": "Land of Oros not big enough for two of us.",
+	"attacked": "Takkar defend Wenja from attack.",
+	"defeated": "Wenja are dead, Land of Oros lost.",
+    "denounced": "Wenja will remember words...",
+	"introduction": "Hello. I am Takkar of Wenja.",
+
+    "neutralHello": "Hello.",
+    "hateHello": "What?",
+
+    "tradeRequest": "Wenja need resourses, We need trade with you.",
+
+    "outerColor": [255, 255, 255],
+    "innerColor": [161, 161, 161],
+	"uniqueName": "Land of Oros",
+    "uniques": [""],
+	"cities": ["Wenja"],
+"spyNames": ["Spy name","Bob"]
+},
 ]
