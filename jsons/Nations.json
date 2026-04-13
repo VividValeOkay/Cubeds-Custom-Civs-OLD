@@ -174,9 +174,9 @@
     "outerColor": [176, 28, 55],
     "innerColor": [255, 239, 35],
 	"uniqueName": "Face the Sin, Save the E.G.O",
-    "uniques": ["[Military] units gain the [Stagger] promotion","\"Borrows\" city names from other civilizations in the game"],
+    "uniques": ["[Military] units gain the [Clash] promotion","\"Borrows\" city names from other civilizations in the game"],
 	"cities": ["Limbus Company HQ"],
-"spyNames": ["Yi Sang","Faust","Don Quixote","Ryōshū","Meursault","Hong Lu","Heathcliff","Ishmael","Rodion","Dante","Sinclair",
+    "spyNames": ["Yi Sang","Faust","Don Quixote","Ryōshū","Meursault","Hong Lu","Heathcliff","Ishmael","Rodion","Dante","Sinclair",
              "Outis","Gregor"]
 },
 {
